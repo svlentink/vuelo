@@ -13,3 +13,7 @@ we're just gettings started.
 + Chrome extension: loops through all the permutations and send data to server
 + Server: REST-API with SQL server
 + UI: Don't have a clue yet, we'll first gather the data
+
+## Notes
+
++ The IP address is determined by the server. (since the client, i.e. Chrome extension, connects to it from an IP)
